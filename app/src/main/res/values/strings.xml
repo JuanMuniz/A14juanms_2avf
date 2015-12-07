@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">A14juanms_2avf</string>
+    <string name="pista">Introduce tu nombre</string>
+    <string name="call">LLAMAR</string>
+    <string name="salary">SALARIO</string>
+    <string name="video">VIDEO</string>
+    <string name="audio">AUDIO</string>
+    <string name="callNO">Marca un número</string>
+    <string name="bdCreada">BBDD creada</string>
+    <string name="meteName">Introduce un nombre</string>
+    <string name="reproducir">Reproducir</string>
+    <string name="gravar">Grabar</string>
+    <string name="parar">Parar</string>
+</resources>

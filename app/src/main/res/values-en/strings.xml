@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">A14juanms_2avf</string>
+    <string name="pista">Introduce a name</string>
+    <string name="call">CALL</string>
+    <string name="salary">SALARY</string>
+    <string name="video">VIDEO</string>
+    <string name="audio">AUDIO</string>
+    <string name="callNO">Dial a phone number</string>
+    <string name="bdCreada">Database created</string>
+    <string name="meteName">Introduce a name</string>
+    <string name="reproducir">Play</string>
+    <string name="gravar">Record</string>
+    <string name="parar">Stop</string>
+</resources>
